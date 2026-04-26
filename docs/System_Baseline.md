@@ -13,3 +13,8 @@ An initial audit of the primary OS volume was performed using `manage-bde`.
 * **Risk Level:** CRITICAL
 
 **Vulnerability Assessment:** The system is currently vulnerable to offline attacks. Lack of Full Disk Encryption (FDE) means the physical theft of the device in a total compromise of data integrity and confidentiality.
+
+---
+
+### **Audit Evidence**
+![Manage-BDE Audit Status](../assets/manage-bde-initial-audit.png)
