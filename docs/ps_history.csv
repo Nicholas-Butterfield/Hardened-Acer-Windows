@@ -1,4 +1,3 @@
-#TYPE Microsoft.PowerShell.Commands.HistoryInfo
 "Id","CommandLine","ExecutionStatus","StartExecutionTime","EndExecutionTime"
 "1","manage-bde -status","Completed","4/26/2026 11:27:43 AM","4/26/2026 11:27:44 AM"
 "2","cd C:\Users\nicho\config\jgit","Completed","4/26/2026 2:26:26 PM","4/26/2026 2:26:26 PM"
