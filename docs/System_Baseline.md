@@ -8,11 +8,11 @@
 An initial audit of the primary OS volume was performed using `manage-bde`.
 
 ### **Audit Findings (Volume C:)**
-* **Status:** Fully Decrypted
-* **Protection:** OFF
-* **Risk Level:** CRITICAL
+* **Status:** 100.0% Encrypted
+* **Protection:** ON (TPM + Numerical Password)
+* **Risk Level:** LOW (Data-at-Rest)
 
-**Vulnerability Assessment:** The system is currently vulnerable to offline attacks. Lack of Full Disk Encryption (FDE) means the physical theft of the device in a total compromise of data integrity and confidentiality.
+**Vulnerability Assessment:** The system is now protected against offline attacks. Full Disk Encryption (FDE) ensures that physical theft of the device does not result in a compromise of data integrity or confidentiality.
 
 ---
 
