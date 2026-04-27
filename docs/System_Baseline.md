@@ -16,5 +16,8 @@ An initial audit of the primary OS volume was performed using `manage-bde`.
 
 ---
 
-### **Audit Evidence**
-![Manage-BDE Audit Status](../assets/manage-bde-initial-audit.png)
+### Audit Evidence (Before vs. After)
+
+| Initial Status (Vulnerable) | Hardened Status (Secured) |
+| :--- | :--- |
+| ![Initial Audit Status](../assets/manage-bde-initial-audit.png) | ![Final Audit Status](../assets/update-manage-bde-audit.png) |
