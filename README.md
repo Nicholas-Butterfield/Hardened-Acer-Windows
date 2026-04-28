@@ -2,7 +2,7 @@
 *A Windows 11 Home Security Baseline Project for the Acer Predator Helios 16*
 
 <p align="center">
-  <img src="assets/security_banner.png" alt="Hardened Windows 11 Home Workstation Banner">
+  <img src="assets/security_banner_v2.png" alt="Hardened Windows 11 Home Workstation Banner">
 </p>
 
 ---
